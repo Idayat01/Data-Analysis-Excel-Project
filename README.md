@@ -28,7 +28,7 @@ formulas. etc.)
 ---  
 
 ## Dashboard Preview
-![Dashboard Screenshot](exceldashboard.png)
+![Dashboard Screenshot](excel_dashboard.png)
 
 ---
 
