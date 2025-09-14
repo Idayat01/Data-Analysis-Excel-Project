@@ -27,8 +27,8 @@ formulas. etc.)
 
 ---  
 
-## 🖼️ Dashboard Preview
-![Dashboard Screenshot](dashboard.png)
+## Dashboard Preview
+![Dashboard Screenshot](exceldashboard.png)
 
 ---
 
@@ -38,5 +38,5 @@ formulas in Excel. Making data ready and consistent for analysis.
 
 ---
 
-👩‍💻 **Author**: Idayat Salako  
+ **Author**: Idayat Shalewa Salako  
 
